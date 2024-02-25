@@ -19,9 +19,48 @@ ul {
 
 a {
     text-decoration: none; /* Remove underline text decoration for links */
+    font-size: 18px;
+    color: #E5E7EB;
 }
 
 .first-container {
     display: flex;
     justify-content: center;
+    align-items: flex-start;
+    gap: 30px;
+}
+
+.hero-main {
+    font-size: 48px;
+    font-weight: 800;
+    color: #F9FAF8;
+}   
+
+.hero-second {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.header-logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.coding-robot {
+    height: 100%;
+    max-width: 100%;
+    display: block;
+    margin: auto;
+}
+
+.right-image {
+    height: 300px;
+    width: 30%;
+    height: 30%;
+    border: 1px solid black;
+    margin-bottom: 50px;
+}
+
+.left-content {
+    padding: 0px;
 }
