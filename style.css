@@ -91,3 +91,25 @@ a {
     height: 100%;
     max-width: 100%;
 }
+
+.section3 {
+    background-color: #E5E7EB;
+    padding: 100px;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.author {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    font-weight: 800;
+}
